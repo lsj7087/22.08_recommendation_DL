@@ -27,7 +27,8 @@ https://aifactory.space/competition/detail/2063
 ***
 
 ### **Data**
-사진
+![image](https://user-images.githubusercontent.com/90736934/209744799-93b82ec4-8551-401c-993f-74991734b4b6.png)
+
 
 
 ***
